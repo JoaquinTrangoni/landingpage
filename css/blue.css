@@ -320,6 +320,9 @@ h6, .h6 {
 .lead {
   font-size: 1.2rem;
   font-weight: 500; }
+.lead2 {
+  font-size: 1.5rem;
+  font-weight: 500; }
 
 .display-1 {
   font-size: 5rem;

@@ -328,8 +328,12 @@ h6, .h6 {
   font-size: 1rem; }
 
 .lead {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   font-weight: 500; }
+.lead2 {
+    font-size: 1.5rem;
+    font-weight: 500; }
+  
 
 .display-1 {
   font-size: 5rem;
@@ -7382,8 +7386,10 @@ a.text-dark:hover, a.text-dark:focus {
   .table-bordered td {
     border: 1px solid #B0BEC5 !important; } }
 
-/*****************
-Custom CSS
+/*****************
+
+Custom CSS
+
 *****************/
 body {
   border-color: #000000; }
